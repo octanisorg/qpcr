@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name TLC5940RHBR)(type Legacy)(uri ${KIPRJMOD}/../lib_sch/TLC5940RHBR.lib)(options "")(descr ""))
+  (lib (name G3VM)(type Legacy)(uri ${KIPRJMOD}/../lib_sch/G3VM.lib)(options "")(descr ""))
+  (lib (name TEC)(type Legacy)(uri ${KIPRJMOD}/../lib_sch/TEC.lib)(options "")(descr ""))
+)
