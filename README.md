@@ -21,6 +21,7 @@ If you are interested in contributing to the project [DM us](https://twitter.com
 On our task list:
 - Publication of an eBOM and mBOM.
 - Collaboration with somebody making PCR tests/master mixes.
+- Complete assembly as a STEP file. 
 
 Completed:
 - [Lid Heater PCB](https://pcb.im/share/dadb9a33574c403e)
