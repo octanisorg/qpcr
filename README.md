@@ -27,6 +27,7 @@ Completed:
 - [Lid Heater PCB](https://pcb.im/share/dadb9a33574c403e)
 - [16 Channel Excitation PCB](https://pcb.im/share/144b98556b9944f6)
 - [8 Channel Emmision Sensing PCB](https://pcb.im/share/420ee10b3fee4fb8)
+- [mainboard PCB](http://pcb.im/share/4b724f7b39da497d)
 
 ## Acknowledgements
 - Chaibio, for the block and lid heater design, which we slightly modified.
