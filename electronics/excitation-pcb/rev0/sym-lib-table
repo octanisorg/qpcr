@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TLC5940RHBR)(type Legacy)(uri C:/Users/sam/Repositories/OI/sandbox/qpcr/electronics/excitation-pcb/lib_sch/TLC5940RHBR.lib)(options "")(descr ""))
+)

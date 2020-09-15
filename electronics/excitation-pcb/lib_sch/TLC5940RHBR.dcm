@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLC5940RHBR
+D 16-Channel LED Driver w/EEprom DOT Correction & Grayscale PWM Control
+K
+F http://www.ti.com/lit/ds/symlink/tlc5940.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,20 @@
+(module lid-heater (layer F.Cu) (tedit 5EF9EE5E)
+  (fp_text reference REF** (at 0 -6.096) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value lid-heater (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 1.397 -4.9022) (end 2.667 -3.5814) (layer F.Cu) (width 0.4))
+  (fp_line (start 1.9304 -2.921) (end 1.5748 -3.2766) (layer F.Cu) (width 0.4))
+  (fp_line (start 2.7432 -4.572) (end 2.2098 -5.0546) (layer F.Cu) (width 0.4))
+  (fp_line (start 1.2446 -3.8608) (end 0.8128 -4.318) (layer F.Cu) (width 0.4))
+  (fp_arc (start -0.3429 -6.1468) (end 2.7432 -4.572) (angle -330.4707161) (layer F.Cu) (width 0.4))
+  (fp_arc (start -0.3429 -6.1595) (end 2.2098 -5.0546) (angle -327.8737649) (layer F.Cu) (width 0.4))
+  (fp_arc (start -0.3429 -6.1341) (end 1.397 -4.9022) (angle -336.9282282) (layer F.Cu) (width 0.4))
+  (fp_text user REF** (at 0 -6.096) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 2.2352 -2.6162 135) (size 1 0.4) (layers F.Cu F.Paste))
+  (pad 1 smd rect (at 2.9972 -3.2512 135) (size 1 0.4) (layers F.Cu F.Paste))
+)

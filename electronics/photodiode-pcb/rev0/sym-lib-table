@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AS89010)(type Legacy)(uri /Users/sam/Repositories/oi/sandbox/qpcr/electronics/photodiode-pcb/lib_sch/AS89010.lib)(options "")(descr ""))
+  (lib (name Hamamatsu-S1227)(type Legacy)(uri /Users/sam/Repositories/oi/sandbox/qpcr/electronics/photodiode-pcb/lib_sch/Hamamatsu-S1227.lib)(options "")(descr ""))
+)
